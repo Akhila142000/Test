@@ -6,3 +6,4 @@ e=$((a*b))
 echo "addition is $c"
 echo "subraction is $d"
 echo "multiply is $e"
+echo "hi"
