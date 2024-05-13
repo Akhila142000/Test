@@ -4,4 +4,4 @@ c=$((a+b))
 d=$((a-b))
 echo "addition is $c"
 echo "subraction is $d"
-echo "hi "
+:wQ
