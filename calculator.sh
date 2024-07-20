@@ -9,4 +9,4 @@ echo "subraction is $d"
 echo "multiply is $e"
 echo "divide is $f"
 hello azure
-
+gcp
