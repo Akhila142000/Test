@@ -17,3 +17,4 @@ aws
 hello
 parige akhila   reddy
 aws offers 100 +services
+few of them are EC2 , S3 etc
