@@ -18,3 +18,4 @@ hello
 parige akhila   reddy
 aws offers 100 +services
 few of them are EC2 , S3 etc
+and also ebs, aws code piepline
